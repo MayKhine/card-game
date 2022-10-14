@@ -18,5 +18,9 @@
   "homepage": "https://github.com/MayKhine/card-game#readme",
   "devDependencies": {
     "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "@types/node": "^18.8.5",
+    "ts-node": "^10.9.1"
   }
 }
